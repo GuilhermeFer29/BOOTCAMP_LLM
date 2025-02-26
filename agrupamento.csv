@@ -1,0 +1,15 @@
+0,1
+Analista,"   salario  idade  nota
+4    23000     28     5
+5    11000     29     9
+7    10000     29     2
+8    13000     30     1
+9    12000     40     7"
+Coordenador,"   salario  idade  nota
+1    12000     29     6"
+Diretor,"   salario  idade  nota
+3    40000     36     7"
+Gerente,"   salario  idade  nota
+0    25000     35     8
+2    28000     38     9
+6    12000     30     4"
