@@ -82,5 +82,12 @@ while True:
         # Controle de erro
     else:
         print("Opção inválida. Tente novamente.")
-    
-            
+        
+        
+"""
+Coletar dados de paises sobre inflação, IPCA , escolher cinco paises e exibir os dados, crair um Resumo com os dados coletados de tudo que foi coletado
+uma apresentação de dados sobre a inflação, desses pais por mês, ano e o que mais foi coletado.
+
+indice de inflação dos 36 meses de cada paises comparados um a um
+
+"""
