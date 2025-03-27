@@ -4,44 +4,16 @@
 
 Repositório oficial do Bootcamp de Large Language Models (LLM), contendo materiais, projetos e recursos para aprendizado em modelos de linguagem de grande escala.
 
-## 📚 Visão Geral
-
-Este repositório contém os seguintes módulos principais:
-
-1. **Introdução ao Python para LLM**
-   - Fundamentos de Python
-   - Trabalhando com APIs
-   - Processamento de dados textuais
-
-2. **LangChain e Aplicações Práticas**
-   - Modelos, Prompts e Parsers
-   - Memory e Chains
-   - RAG (Retrieval-Augmented Generation)
-
-3. **Projetos com LLMs**
-   - Sistema de Q&A sobre Documentos
-   - Chatbot Especializado em SQL
-   - Análise de Sentimentos em Tempo Real
-
-4. **Fine-tuning de Modelos**
-   - Preparação de datasets
-   - Treinamento com Hugging Face
-   - Avaliação de modelos customizados
-
-5. **Deploy e Monitoramento**
-   - Dockerização de aplicações
-   - API com FastAPI
-   - Monitoramento com MLflow
 
 ## 🛠 Tecnologias Utilizadas
 
 - Python 3.9+
-- LangChain
-- Hugging Face Transformers
-- PyTorch
-- Docker
-- FastAPI
-- MLflow
+- scipy
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
 - Jupyter Notebooks
 
 ## 📋 Pré-requisitos
